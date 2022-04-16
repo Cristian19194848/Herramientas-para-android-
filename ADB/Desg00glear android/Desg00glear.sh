@@ -1,4 +1,3 @@
-#pm create-user miuser  
 clear
 echo "ADVERTENCIA"
 sleep 1
