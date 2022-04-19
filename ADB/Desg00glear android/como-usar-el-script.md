@@ -1,4 +1,6 @@
-<iframe title="¿como usar el script?" src="https://kodcast.com/videos/embed/384c19d4-2b97-4d58-a0c5-883c1550e688" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" width="560" height="315" frameborder="0"></iframe>
+"¿como usar el script?"
+ 
+https://kodcast.com/videos/embed/384c19d4-2b97-4d58-a0c5-883c1550e688
 
 antes que nada necesitaras descargar e instalar Las siguente apps
 
