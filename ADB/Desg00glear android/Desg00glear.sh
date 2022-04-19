@@ -4,7 +4,7 @@ sleep 1
 echo "antes de empezar se recomiendar instalar las aplicaciones que se van a deshabilitar"
 echo "si aun no ha instalado las alternativas "
 echo "cancele esto , hasta que termines de instalar las alternativas"
-echo "SE DESINSTALARA CASI TODO DE GOOGLE NOMAS"
+echo "SE DESHABILITARA CASI TODO DE GOOGLE NOMAS"
 sleep 2
 echo "se mostrara que usuarios tienes"
 pm list users
